@@ -1,0 +1,17 @@
+/*!
+Theme Name: schoolTheme
+Author: hey joe
+Author URI: http://heyjoe.com.co/
+Description:  School's custom wordpress theme.
+Version: 1.0
+
+*/
+$fa-font-path: 'webfonts';
+@import "node_modules/slick-carousel/slick/slick.scss";
+
+@import 'normalize';
+@import 'fonts';
+@import 'mixins';
+@import 'general';
+@import 'nav';
+@import 'footer';

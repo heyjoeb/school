@@ -1,0 +1,33 @@
+{
+  "name": "schooltheme",
+  "version": "1.0.0",
+  "description": "wordpress theme for school.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/heyjoeb/school.git"
+  },
+  "author": "http://heyjoe.com.co/",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyjoeb/school/issues"
+  },
+  "homepage": "https://github.com/heyjoeb/school#readme",
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "@fortawesome/fontawesome-free": "^5.11.2",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^3.0.1",
+    "gulp-sass": "^4.0.2",
+    "jquery": "^3.4.1",
+    "node-sass": "^4.13.0",
+    "slick-carousel": "^1.8.1"
+  }
+}
